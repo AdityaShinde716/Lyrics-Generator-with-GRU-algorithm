@@ -1,1 +1,1 @@
-# Lyrics-Generator-with-GRU-algorithm
+Built a lyrics generation model using GRU-based deep learning, trained on Hindi song text. Implemented tokenization, n-gram sequence generation, padding, embedding, and a multi-layer Bidirectional GRU network. Achieved coherent next-word predictions and generated new lyric lines from custom seed text.
